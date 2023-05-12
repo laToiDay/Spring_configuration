@@ -1,9 +1,12 @@
 package javabasedconfiguration;
 
 import org.springframework.context.annotation.Bean;
+
+import org.springframework.context.annotation.Configuration;
 import pojobean.AccountRepository;
 import pojobean.AccountService;
 
+@Configuration
 public class BeanConfiguration {
     @Bean
     public AccountService accountService(){

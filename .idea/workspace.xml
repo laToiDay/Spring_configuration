@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e9226d-81e0-4b13-a817-f2de6542f355" name="Changes" comment="them">
-      <change afterPath="$PROJECT_DIR$/src/main/java/javabasedconfiguration/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javabasedconfiguration/BeanConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javabasedconfiguration/BeanConfiguration.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +46,26 @@
       <recent name="javabasedconfiguration" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.xmlbasedconfiguration.Main">
+  <component name="RunManager" selected="Application.javabasedconfiguration.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="annotationbasedconfiguration.Main" />
       <module name="springconfigutation" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="annotationbasedconfiguration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="javabasedconfiguration.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabasedconfiguration.Main" />
+      <module name="springconfigutation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javabasedconfiguration.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,6 +101,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.javabasedconfiguration.Main" />
         <item itemvalue="Application.xmlbasedconfiguration.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.org.example.Main" />
@@ -109,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683891990950</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="them">
+      <created>1683892407182</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683892407182</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
